@@ -1,0 +1,16 @@
+name: "."
+title: "title : BABAR 8 : website"
+description: |
+  BABARwebsite
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Button 1 : index"
+      href: index.html
+    - text: "Button 2 : parcours"
+      href: parcours.html
+    - text: "Button 3 : publications"
+      href: publications.html
+    - text: "Button 4 : about"
+      href: about.html
+output: distill::distill_article

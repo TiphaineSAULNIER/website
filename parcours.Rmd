@@ -1,0 +1,26 @@
+---
+title: "Parcours"
+description: |
+  Formations et expériences
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+**2021-** | Doctorante en Biostatistique | centre de recherche Bordeaux Population Health, équipe Biostatistique | Bordeaux
+
+**2019-2021** | Ingénieure d’étude en Biostatistique | centre de recherche Bordeaux Population Health, équipe Biostatistique | Bordeaux
+
+**2017-2019** | Master en Statistique | université de Strasbourg | Strasbourg
+
+**2014-2017** | Licence de Mathématiques | université de Bourgogne | Dijon
+
+**2014** | Baccalauréat Scientifique, option Mathématiques | lycée Edgar Quinet | Bourg-en-Bresse
+
+
+
+
+

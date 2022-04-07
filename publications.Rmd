@@ -1,0 +1,22 @@
+---
+title: "My submitted publications"
+description: |
+  Liste des articles publiés ou en cours de publication
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Preprints
+
+- XXX
+
+# Accepted
+
+- Saulnier T, Philipps V, Meissner WG, Rascol O, Pavy-Le-Traon A, Foubert-Samier A, et al. *Joint models for the longitudinal analysis of measurement scales in the presence of informative dropout*. arXiv:211002612. march 2022; Available on http://arxiv.org/abs/2110.02612
+
+
+

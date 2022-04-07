@@ -1,0 +1,38 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-04-07T15:08:11+02:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Tiphaine Saulnier",
+      "author": [],
+      "contents": "\r\n\r\n          \r\n          \r\n          title : BABAR 8 : website\r\n          \r\n          \r\n          Button 1 : index\r\n          Button 2 : parcours\r\n          Button 3 : publications\r\n          Button 4 : about\r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              Tiphaine Saulnier\r\n            \r\n            \r\n              \r\n                \r\n                    \r\n                      \r\n                        Email\r\n                      \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        BPH\r\n                      \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        LinkedIn\r\n                      \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        GitHub\r\n                      \r\n                    \r\n                  \r\n                                  \r\n            \r\n          \r\n        \r\n        \r\n        \r\n          \r\n            \r\n            Bio\r\n            Doctorante en 1ère année de Biostatistique, Santé Publique, au centre Bordeaux Population Health, université de Bordeaux\r\n            Mes travaux de recherche portent sur l’Etude de la progression de l’Atrophie Multi-Systématisée dans la cohorte française du centre de référence : Approche statistique longitudinale et multidimensionnelle. L’atrophie multi-systématisée (AMS) est une maladie neurodégénérative rare, qui reste encore aujourd’hui malconnue. Cette thèse a pour objectif global de mieux comprendre l’évolution de cette pathologie par l’analyse des données de la cohorte AMS du centre de référence des maladies rares (CRMR) des CHUs de Bordeaux et de Toulouse. Ces travaux reposent sur le développement de modèles conjoints pour multiples marqueurs répétés et évènements cliniques.\r\n            Cette thèse est encadrée par Cécile PROUST-LIMA, directrice de recherche en Biostatistique au BPH, et Alexandra FOUBERT-SAMIER, PUPH-neurologue au CHU de Bordeaux.\r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              Tiphaine Saulnier\r\n            \r\n            \r\n              \r\n                \r\n                                    \r\n                    \r\n                      Email\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      BPH\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      LinkedIn\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      GitHub\r\n                    \r\n                  \r\n                                  \r\n              \r\n            \r\n            \r\n              \r\n              Bio\r\n              Doctorante en 1ère année de Biostatistique, Santé Publique, au centre Bordeaux Population Health, université de Bordeaux\r\n              Mes travaux de recherche portent sur l’Etude de la progression de l’Atrophie Multi-Systématisée dans la cohorte française du centre de référence : Approche statistique longitudinale et multidimensionnelle. L’atrophie multi-systématisée (AMS) est une maladie neurodégénérative rare, qui reste encore aujourd’hui malconnue. Cette thèse a pour objectif global de mieux comprendre l’évolution de cette pathologie par l’analyse des données de la cohorte AMS du centre de référence des maladies rares (CRMR) des CHUs de Bordeaux et de Toulouse. Ces travaux reposent sur le développement de modèles conjoints pour multiples marqueurs répétés et évènements cliniques.\r\n              Cette thèse est encadrée par Cécile PROUST-LIMA, directrice de recherche en Biostatistique au BPH, et Alexandra FOUBERT-SAMIER, PUPH-neurologue au CHU de Bordeaux.\r\n              \r\n            \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2022-04-07T15:08:11+02:00"
+    },
+    {
+      "path": "parcours.html",
+      "title": "Parcours",
+      "description": "Formations et expériences\n",
+      "author": [],
+      "date": "`r Sys.Date()`",
+      "contents": "\r\n2021- | Doctorante en Biostatistique | centre de recherche Bordeaux Population Health, équipe Biostatistique | Bordeaux\r\n2019-2021 | Ingénieure d’étude en Biostatistique | centre de recherche Bordeaux Population Health, équipe Biostatistique | Bordeaux\r\n2017-2019 | Master en Statistique | université de Strasbourg | Strasbourg\r\n2014-2017 | Licence de Mathématiques | université de Bourgogne | Dijon\r\n2014 | Baccalauréat Scientifique, option Mathématiques | lycée Edgar Quinet | Bourg-en-Bresse\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-04-07T15:08:12+02:00"
+    },
+    {
+      "path": "publications.html",
+      "title": "My submitted publications",
+      "description": "Liste des articles publiés ou en cours de publication\n",
+      "author": [],
+      "date": "`r Sys.Date()`",
+      "contents": "\r\nPreprints\r\nXXX\r\nAccepted\r\nSaulnier T, Philipps V, Meissner WG, Rascol O, Pavy-Le-Traon A, Foubert-Samier A, et al. Joint models for the longitudinal analysis of measurement scales in the presence of informative dropout. arXiv:211002612. march 2022; Available on http://arxiv.org/abs/2110.02612\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-04-07T15:08:13+02:00"
+    }
+  ],
+  "collections": []
+}

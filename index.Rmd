@@ -1,0 +1,24 @@
+---
+title: "Tiphaine Saulnier"
+image: "photoprofil.jpg"
+links:
+  - label: Email
+    url: "mailto:tiphaine.saulnier@u-bordeaux.fr"
+  - label: BPH
+    url: "https://www.bordeaux-population-health.center/profile/tiphaine-saulnier/"
+  - label: LinkedIn
+    url: "linkedin.com/in/tiphaine-saulnier-6375621b4"
+  - label: GitHub
+    url: "https://github.com/TiphaineSAULNIER"
+output: postcards::trestles
+site: distill::distill_website  
+---
+ 
+## Bio
+
+Doctorante en 1ère année de Biostatistique, Santé Publique, 
+au centre Bordeaux Population Health, université de Bordeaux
+
+Mes travaux de recherche portent sur l’**Etude de la progression de l’Atrophie Multi-Systématisée dans la cohorte française du centre de référence : Approche statistique longitudinale et multidimensionnelle**. L’atrophie multi-systématisée (AMS) est une maladie neurodégénérative rare, qui reste encore aujourd’hui malconnue. Cette thèse a pour objectif global de mieux comprendre l’évolution de cette pathologie par l’analyse des données de la cohorte AMS du centre de référence des maladies rares (CRMR) des CHUs de Bordeaux et de Toulouse. Ces travaux reposent sur le développement de modèles conjoints pour multiples marqueurs répétés et évènements cliniques.
+
+Cette thèse est encadrée par Cécile PROUST-LIMA, directrice de recherche en Biostatistique au BPH, et Alexandra FOUBERT-SAMIER, PUPH-neurologue au CHU de Bordeaux.
